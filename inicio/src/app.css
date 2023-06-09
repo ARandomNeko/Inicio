@@ -10,7 +10,7 @@
 	font-style: normal;
 }
 body {
-	background-image: url('https://hyapsecl.sirv.com/wpt/wptwebsitebg1.jpg');
+	background-image: url('/assets/wptwebsitebg1.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -26,4 +26,27 @@ body {
 }
 h1 {
 	font-family: pp_hattonbold;
+}
+/* From https://css.glass */
+.card {
+	/* From https://css.glass */
+	background: rgba(239, 235, 235, 1);
+	border-radius: 16px;
+	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+	backdrop-filter: blur(11.6px);
+	-webkit-backdrop-filter: blur(11.6px);
+}
+
+.h-80p {
+	height: 90vh;
+}
+
+.FF598F {
+	color: rgb(255 89 143);
+}
+
+.rotated-text {
+	writing-mode: vertical-lr;
+	transform: rotate(180deg);
+	translate: -80px;
 }
