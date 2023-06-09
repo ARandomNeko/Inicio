@@ -36,30 +36,30 @@
     <!--Meet the team-->
     <div class=" mt-10 translate-y-10"> 
         <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl "> MEET THE TEAM</h1>
-        <div class=" grid grid-cols-3 grid-rows-2 content-center">
+        <div class=" grid grid-cols-3 grid-rows-2 place-content-center">
             <!-- ONE -->
-            <div >
-
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(131,223,215);">
+                1
             </div>
             <!-- TWO -->
-            <div >
-                
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(203,216,211);">
+                2
             </div>
             <!-- THREE -->
-            <div >
-                
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(248,164,185);">
+                3
             </div>
             <!-- FOUR -->
-            <div >
-
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(250,191,169);">
+                4
             </div>
-
+            <!-- FIVE blank -->
             <div >
-            <!-- FIVE -->                
+           
             </div>
             <!-- SIX -->
-            <div >
-                
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(229,230,133);">
+                6
             </div>
         </div>
     </div>
