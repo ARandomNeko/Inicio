@@ -1,7 +1,7 @@
 
 <section class="p-12 md:mx-48">
 <!-- landing page-->
-<section class="grid grid-cols-1  gap-4 place-items-center p-16 h-80p">
+<section class="grid grid-cols-1  gap-4 place-items-center p-16 h-screen">
     <div class="xl:text-8xl lg:text-7xl md:text-6xl text-4xl sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
 
             WORLD PEACE TODAY
@@ -35,9 +35,32 @@
     </div>
     <!--Meet the team-->
     <div class=" mt-10 translate-y-10"> 
-        <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl "> Meet The Team</h1>
-        <div class=" grid grid-cols-2 grid-rows-3">
+        <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl "> MEET THE TEAM</h1>
+        <div class=" grid grid-cols-3 grid-rows-2 content-center">
+            <!-- ONE -->
+            <div >
 
+            </div>
+            <!-- TWO -->
+            <div >
+                
+            </div>
+            <!-- THREE -->
+            <div >
+                
+            </div>
+            <!-- FOUR -->
+            <div >
+
+            </div>
+
+            <div >
+            <!-- FIVE -->                
+            </div>
+            <!-- SIX -->
+            <div >
+                
+            </div>
         </div>
     </div>
 </section>

@@ -61,3 +61,9 @@ h1 {
 	transform: rotate(180deg);
 	translate: -80px;
 }
+
+.xffd {
+	width: 500px;
+	height: 350px;
+	color: black;
+}
