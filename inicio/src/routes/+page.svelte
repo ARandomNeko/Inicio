@@ -1,6 +1,5 @@
-<section class="bg-black ">
-    <h1 class="font-mono text-white grid text-center ">Welcome to World Peace Today</h1>
-    <p class="font-mono text-white  text-center">Visit 
-        <a class="text-orange-400 underline underline-offset-1" href="https://www.instagram.com/worldpeace_today/">Our instagram </a> to know more</p>
+<section class="flex justify-center">
+    <h1 class="text-7xl text-white  center">
+        WORLD PEACE TODAY
+    </h1>
 </section>
-
