@@ -34,7 +34,7 @@
         </div>
     </div>
     <!--Meet the team-->
-    <div class=" mt-10 translate-y-10"> 
+    <div class=" mt-10 translate-y-10 p-16"> 
         <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl "> MEET THE TEAM</h1>
         <div class=" grid grid-cols-3 grid-rows-2 place-content-center">
             <!-- ONE -->
