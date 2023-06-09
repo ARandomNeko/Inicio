@@ -65,5 +65,7 @@ h1 {
 .xffd {
 	width: 500px;
 	height: 350px;
-	color: black;
+	background-color: black;
+	color: white;
+	border-radius: 16px;
 }
