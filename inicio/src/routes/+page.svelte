@@ -15,7 +15,7 @@
 <section class=" card  p-12">
     <!--About Us-->
     <div class="flex justify-start">
-        <div class="basis-1/6 rotated-text FF598F" style="font-family: pp_hattonbold;">
+        <div class="basis-1/6 rotated-text FF598F " style="font-family: pp_hattonbold;">
             <h1>
                 ABOUT US 
 

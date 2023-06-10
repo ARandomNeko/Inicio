@@ -60,7 +60,6 @@ h1 {
 .rotated-text {
 	writing-mode: vertical-lr;
 	transform: rotate(180deg);
-	translate: -80px;
 }
 
 .xffd {
