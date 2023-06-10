@@ -44,7 +44,7 @@
         <h1 class="text-center"> MEET THE TEAM</h1>
         <div class=" md:grid grid-cols-3 grid-rows-2 px-10">
             <!-- ONE -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 md:ml-6" style="background-color: rgba(131,223,215,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6" style="background-color: rgba(131,223,215,0.8);">
                 <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
                 <p class="text-left ml-6 my-auto md:scale">
                     <b>
@@ -54,7 +54,7 @@
                 </p> 
             </div>
             <!-- TWO -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3" style="background-color: rgba(203,216,211,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3" style="background-color: rgba(203,216,211,0.8);">
                 <img src="/assets/nishka.jpeg" class="cropped rounded-2xl">
                 <p class="text-left ml-6 my-auto md:scale">
                     <b>
@@ -64,7 +64,7 @@
                 </p> 
             </div>
             <!-- THREE -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 md:mr-6" style="background-color: rgba(248,164,185,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:mr-6" style="background-color: rgba(248,164,185,0.8);">
                 <img src="/assets/ritu.jpeg" class="cropped rounded-2xl">
                 <p class="text-left ml-6 my-auto md:scale"> 
                     <b>
@@ -74,7 +74,7 @@
                 </p> 
             </div>
             <!-- FOUR -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 md:ml-6" style="background-color: rgba(250,191,169,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6" style="background-color: rgba(250,191,169,0.8);">
                 <img src="/assets/rishika.jpeg" class="cropped rounded-2xl">
                 <p class="text-left ml-6 my-auto md:scale">
                     <b>
@@ -88,7 +88,7 @@
            
             </div>
             <!-- SIX -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 md:mr-6 " style="background-color: rgba(229,230,133,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:mr-6 " style="background-color: rgba(229,230,133,0.8);">
                 <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
                     <p class="text-left ml-6 my-auto md:scale">
                         <b>
