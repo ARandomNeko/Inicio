@@ -39,7 +39,7 @@
 
 </section>
 
-<section class=" card mt-20 py-6 px-16">
+<section class=" card mt-20 py-6 md:px-16">
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>
