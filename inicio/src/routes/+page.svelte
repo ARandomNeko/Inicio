@@ -1,4 +1,3 @@
-
 <section class="p-12 ">
 <!-- landing page-->
 <section class="grid grid-cols-1  gap-4 place-items-center p-16 h80p">
@@ -14,8 +13,8 @@
 
 <section class=" card  p-12">
     <!--About Us-->
-    <div class="flex justify-start">
-        <div class="basis-1/6 rotated-text FF598F " style="font-family: pp_hattonbold;">
+    <div class="md:flex justify-start">
+        <div class="basis-1/6 md:rotated-text FF598F " style="font-family: pp_hattonbold;">
             <h1>
                 ABOUT US 
 
@@ -23,7 +22,7 @@
         </div>
     
         <div class="basis-3/4 text-black " style="font-family: Montserrat;"> 
-            <p >
+            <p class="md:para-scale">
                 World Peace Today is committed to spreading awareness on social issues and current events. Alongside our core mission, we recognize the pressing need to address world hunger and provide meals to underprivileged communities. To this end, we have intensified our focus on this critical area.
     
                 <br><br>
@@ -43,11 +42,11 @@
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>
-        <div class=" md:grid grid-cols-3 grid-rows-2 ">
+        <div class=" md:grid grid-cols-3 grid-rows-2 px-10">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 md:ml-6" style="background-color: rgba(131,223,215,0.8);">
                 <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
-                <p class="text-left ml-6 my-auto">
+                <p class="text-left ml-6 my-auto md:scale">
                     <b>
                         Sahasra <br> Jaishetty
                     </b>
@@ -57,7 +56,7 @@
             <!-- TWO -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3" style="background-color: rgba(203,216,211,0.8);">
                 <img src="/assets/nishka.jpeg" class="cropped rounded-2xl">
-                <p class="text-left ml-6 my-auto">
+                <p class="text-left ml-6 my-auto md:scale">
                     <b>
                         Nishka <br> Gupta
                     </b>
@@ -67,7 +66,7 @@
             <!-- THREE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 md:mr-6" style="background-color: rgba(248,164,185,0.8);">
                 <img src="/assets/ritu.jpeg" class="cropped rounded-2xl">
-                <p class="text-left ml-6 my-auto"> 
+                <p class="text-left ml-6 my-auto md:scale"> 
                     <b>
                         Rituparan <br> Reddy
                     </b>
@@ -77,7 +76,7 @@
             <!-- FOUR -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 md:ml-6" style="background-color: rgba(250,191,169,0.8);">
                 <img src="/assets/rishika.jpeg" class="cropped rounded-2xl">
-                <p class="text-left ml-6 my-auto">
+                <p class="text-left ml-6 my-auto md:scale">
                     <b>
                         Rishika <br> Goteti
                     </b>
@@ -91,7 +90,7 @@
             <!-- SIX -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 md:mr-6 " style="background-color: rgba(229,230,133,0.8);">
                 <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
-                    <p class="text-left ml-6 my-auto">
+                    <p class="text-left ml-6 my-auto md:scale">
                         <b>
                             Arnav <br> Tibrewala
                         </b>

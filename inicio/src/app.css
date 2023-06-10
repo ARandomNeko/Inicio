@@ -20,6 +20,24 @@
 	font-style: normal;
 }
 
+@media (max-width: 768px) {
+	.md\:scale {
+		font-size: 4vw;
+	}
+	.md\:para-scale {
+		font-size: 2vw;
+	}
+}
+@media (min-width: 786px) {
+	.md\:rotated-text {
+		writing-mode: sideways-lr;
+		transform: rotate(0deg);
+	}
+	.h80p {
+		height: 85vh;
+	}
+}
+
 body {
 	background-image: url('/assets/wptwebsitebg1.jpeg');
 	background-repeat: no-repeat;
@@ -47,10 +65,6 @@ h1 {
 	box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
 	backdrop-filter: blur(11.6px);
 	-webkit-backdrop-filter: blur(11.6px);
-}
-
-.h80p {
-	height: 85vh;
 }
 
 .FF598F {
@@ -81,3 +95,6 @@ p {
 }
 
 /* Scale the font size for larger screens */
+.scale {
+	font-size: 1.2vw;
+}
