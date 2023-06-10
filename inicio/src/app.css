@@ -20,21 +20,24 @@
 	font-style: normal;
 }
 
+@media (min-width: 768px) {
+	.h80p {
+		height: 85vh;
+	}
+	.md\:fleeeex {
+		display: flex;
+	}
+	.md\:rotated-text {
+		writing-mode: vertical-lr;
+		transform: rotate(180deg);
+	}
+}
 @media (max-width: 768px) {
 	.md\:scale {
 		font-size: 4vw;
 	}
 	.md\:para-scale {
 		font-size: 2vw;
-	}
-}
-@media (min-width: 768px) {
-	.md\:rotated-text {
-		writing-mode: sideways-lr;
-		transform: rotate(0deg);
-	}
-	.h80p {
-		height: 85vh;
 	}
 }
 
@@ -69,11 +72,6 @@ h1 {
 
 .FF598F {
 	color: rgb(255 89 143);
-}
-
-.rotated-text {
-	writing-mode: sideways-lr;
-	transform: rotate(180deg);
 }
 
 .xffd {
