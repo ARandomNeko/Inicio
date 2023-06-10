@@ -21,7 +21,7 @@
 }
 
 body {
-	background-image: url('/assets/wptwebsitebg1.jpg');
+	background-image: url('/assets/wptwebsitebg1.jpeg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -48,8 +48,8 @@ h1 {
 	-webkit-backdrop-filter: blur(11.6px);
 }
 
-.h-80p {
-	height: 100vh;
+.h80p {
+	height: 85vh;
 }
 
 .FF598F {
@@ -68,4 +68,14 @@ h1 {
 	background-color: black;
 	color: white;
 	border-radius: 16px;
+}
+
+.cropped {
+	width: 400px;
+	height: 300px;
+	overflow: hidden;
+	object-fit: none;
+}
+p {
+	font-family: Montserrat;
 }

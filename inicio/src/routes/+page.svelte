@@ -1,7 +1,7 @@
 
 <section class="p-12 md:mx-48">
 <!-- landing page-->
-<section class="grid grid-cols-1  gap-4 place-items-center p-16 h-screen">
+<section class="grid grid-cols-1  gap-4 place-items-center p-16 h80p">
     <div class="xl:text-8xl lg:text-7xl md:text-6xl text-4xl sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
 
             WORLD PEACE TODAY
@@ -14,12 +14,12 @@
 
 <section class=" card py-24 px-12">
     <!--About Us-->
-    <div class="flex">
-        <div class=" basis-1/4 rotated-text  FF598F xl:text-8xl lg:text-7xl md:text-6xl text-4xl" style="font-family: pp_hattonbold;">
+    <div class="flex content-center">
+        <div class=" basis-1/6 rotated-text  FF598F xl:text-9xl lg:text-7xl md:text-6xl text-4xl" style="font-family: pp_hattonbold;">
             ABOUT US 
         </div>
     
-        <div class=" xl:basis-1/2 basis-3/4 text-black text-lg" style="font-family: Montserrat;"> 
+        <div class="  basis-3/4 text-black text-3xl" style="font-family: Montserrat;"> 
             <p>
                 World Peace Today is committed to spreading awareness on social issues and current events. Alongside our core mission, we recognize the pressing need to address world hunger and provide meals to underprivileged communities. To this end, we have intensified our focus on this critical area.
     
@@ -33,35 +33,77 @@
             </p>
         </div>
     </div>
+
+</section>
+
+<section class=" card py-24 px-12 mt-20">
     <!--Meet the team-->
-    <div class=" mt-10 translate-y-10 p-16"> 
-        <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl "> MEET THE TEAM</h1>
+    <div class="  p-16"> 
+        <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl -translate-y-12"> MEET THE TEAM</h1>
         <div class=" grid grid-cols-3 grid-rows-2 place-content-center">
             <!-- ONE -->
-            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(131,223,215);">
-                1
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6 grid grid-cols-2 grid-rows-1 " style="background-color: rgb(131,223,215);">
+                <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
+                <div>
+                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                        Sahasra <br> Jaishetty
+                       
+                    </p> 
+                    <p class="text-left ml-6 text-4xl mt-12">Co-Founder</p>
+                </div>
+
             </div>
             <!-- TWO -->
-            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(203,216,211);">
-                2
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1 place-content-center" style="background-color: rgb(203,216,211);">
+                <img src="/assets/nishka.jpeg" class="cropped rounded-2xl">
+                <div>
+                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                        Nishka <br> Gupta
+                       
+                    </p> 
+                    <p class="text-left ml-6 text-4xl mt-12">Co-Founder</p>
+                </div>
             </div>
             <!-- THREE -->
-            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(248,164,185);">
-                3
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1" style="background-color: rgb(248,164,185);">
+                <img src="/assets/ritu.jpeg" class="cropped rounded-2xl">
+                <div>
+                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                        Rituparan <br> Reddy
+                       
+                    </p> 
+                    <p class="text-left ml-6 text-4xl mt-12">CTO</p>
+                </div>
             </div>
             <!-- FOUR -->
-            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(250,191,169);">
-                4
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1" style="background-color: rgb(250,191,169);">
+                <img src="/assets/rishika.jpeg" class="cropped rounded-2xl">
+                <div>
+                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                        Rishika <br> Goteti
+                       
+                    </p> 
+                    <p class="text-left ml-6 text-4xl mt-12">CMO</p>
+                </div>
             </div>
             <!-- FIVE blank -->
             <div >
            
             </div>
             <!-- SIX -->
-            <div class="text-center mt-6 rounded-2xl p-6 mx-6" style="background-color: rgb(229,230,133);">
-                6
+            <div class="text-center mt-6 rounded-2xl p-6 mx-16  grid grid-cols-2 grid-rows-1" style="background-color: rgb(229,230,133);">
+                <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
+                <div>
+                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                        Arnav <br> Tibrewala
+                       
+                    </p> 
+                    <p class="text-left ml-6 text-4xl mt-12">COO</p>
+                </div>
             </div>
         </div>
     </div>
+
 </section>
+
 </section>
