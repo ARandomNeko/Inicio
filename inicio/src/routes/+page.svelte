@@ -21,7 +21,7 @@
             </h1>
         </div>
     
-        <div class="basis-3/4 text-black " style="font-family: Montserrat;"> 
+        <div class="basis-3/4 text-black mt-6" style="font-family: Montserrat;"> 
             <p class="md:para-scale">
                 World Peace Today is committed to spreading awareness on social issues and current events. Alongside our core mission, we recognize the pressing need to address world hunger and provide meals to underprivileged communities. To this end, we have intensified our focus on this critical area.
     
