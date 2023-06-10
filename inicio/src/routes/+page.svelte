@@ -15,7 +15,7 @@
 <section class=" card py-24 px-12">
     <!--About Us-->
     <div class="flex content-center">
-        <div class=" basis-1/6 rotated-text  FF598F xl:text-9xl lg:text-7xl md:text-6xl text-4xl" style="font-family: pp_hattonbold;">
+        <div class=" basis-1/6 rotated-text  FF598F 2xl:text-9xl xl:text-8xl lg:text-7xl md:text-6xl text-4xl" style="font-family: pp_hattonbold;">
             ABOUT US 
         </div>
     
@@ -39,7 +39,7 @@
 <section class=" card py-24 2xl:px-12 mt-20">
     <!--Meet the team-->
     <div class="  py-16"> 
-        <h1 class="text-center xl:text-9xl lg:text-7xl md:text-6xl text-4xl -translate-y-12"> MEET THE TEAM</h1>
+        <h1 class="text-center 2xl:text-9xl xl:text-8xl lg:text-7xl md:text-6xl text-4xl -translate-y-12"> MEET THE TEAM</h1>
         <div class=" grid grid-cols-3 grid-rows-2 place-content-center">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 mx-6 grid grid-cols-2 grid-rows-1 " style="background-color: rgb(131,223,215);">
@@ -49,7 +49,7 @@
                         Sahasra <br> Jaishetty
                        
                     </p> 
-                    <p class="text-left ml-6 2xl:text-4xl text-xl mt-12">Co-Founder</p>
+                    <p class="text-left ml-6 2xl:text-3xl text-lg mt-12">Co-Founder</p>
                 </div>
 
             </div>
@@ -61,7 +61,7 @@
                         Nishka <br> Gupta
                        
                     </p> 
-                    <p class="text-left ml-6 2xl:text-4xl text-xl mt-12">Co-Founder</p>
+                    <p class="text-left ml-6 2xl:text-3xl text-lg mt-12">Co-Founder</p>
                 </div>
             </div>
             <!-- THREE -->
@@ -72,7 +72,7 @@
                         Rituparan <br> Reddy
                        
                     </p> 
-                    <p class="text-left ml-6 2xl:text-4xl text-xl mt-12">CTO</p>
+                    <p class="text-left ml-6 2xl:text-3xl text-lg mt-12">CTO</p>
                 </div>
             </div>
             <!-- FOUR -->
@@ -83,7 +83,7 @@
                         Rishika <br> Goteti
                        
                     </p> 
-                    <p class="text-left ml-6 2xl:text-4xl text-xl mt-12">CMO</p>
+                    <p class="text-left ml-6 2xl:text-3xl text-lg mt-12">CMO</p>
                 </div>
             </div>
             <!-- FIVE blank -->
@@ -98,7 +98,7 @@
                         Arnav <br> Tibrewala
                        
                     </p> 
-                    <p class="text-left ml-6 2xl:text-4xl text-xl mt-12">COO</p>
+                    <p class="text-left ml-6 2xl:text-3xl text-lg mt-12">COO</p>
                 </div>
             </div>
         </div>
