@@ -70,12 +70,6 @@ h1 {
 	border-radius: 16px;
 }
 
-.cropped {
-	width: 400px;
-	height: 300px;
-	overflow: hidden;
-	object-fit: none;
-}
 p {
 	font-family: Montserrat;
 }

@@ -1,5 +1,5 @@
 
-<section class="p-12 md:mx-48">
+<section class="p-12 ">
 <!-- landing page-->
 <section class="grid grid-cols-1  gap-4 place-items-center p-16 h80p">
     <div class="xl:text-8xl lg:text-7xl md:text-6xl text-4xl sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
@@ -36,20 +36,20 @@
 
 </section>
 
-<section class=" card py-24 px-12 mt-20">
+<section class=" card py-24 2xl:px-12 mt-20">
     <!--Meet the team-->
-    <div class="  p-16"> 
-        <h1 class="text-center xl:text-8xl lg:text-7xl md:text-6xl text-4xl -translate-y-12"> MEET THE TEAM</h1>
+    <div class="  py-16"> 
+        <h1 class="text-center xl:text-9xl lg:text-7xl md:text-6xl text-4xl -translate-y-12"> MEET THE TEAM</h1>
         <div class=" grid grid-cols-3 grid-rows-2 place-content-center">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 mx-6 grid grid-cols-2 grid-rows-1 " style="background-color: rgb(131,223,215);">
                 <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
                 <div>
-                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12 font-bold">
                         Sahasra <br> Jaishetty
                        
                     </p> 
-                    <p class="text-left ml-6 text-4xl mt-12">Co-Founder</p>
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12">Co-Founder</p>
                 </div>
 
             </div>
@@ -57,33 +57,33 @@
             <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1 place-content-center" style="background-color: rgb(203,216,211);">
                 <img src="/assets/nishka.jpeg" class="cropped rounded-2xl">
                 <div>
-                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12 font-bold">
                         Nishka <br> Gupta
                        
                     </p> 
-                    <p class="text-left ml-6 text-4xl mt-12">Co-Founder</p>
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12">Co-Founder</p>
                 </div>
             </div>
             <!-- THREE -->
             <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1" style="background-color: rgb(248,164,185);">
                 <img src="/assets/ritu.jpeg" class="cropped rounded-2xl">
                 <div>
-                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12 font-bold">
                         Rituparan <br> Reddy
                        
                     </p> 
-                    <p class="text-left ml-6 text-4xl mt-12">CTO</p>
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12">CTO</p>
                 </div>
             </div>
             <!-- FOUR -->
             <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1" style="background-color: rgb(250,191,169);">
                 <img src="/assets/rishika.jpeg" class="cropped rounded-2xl">
                 <div>
-                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12 font-bold">
                         Rishika <br> Goteti
                        
                     </p> 
-                    <p class="text-left ml-6 text-4xl mt-12">CMO</p>
+                    <p class="text-left ml-6 xl:text-4xl text-2xl mt-12">CMO</p>
                 </div>
             </div>
             <!-- FIVE blank -->
@@ -91,14 +91,14 @@
            
             </div>
             <!-- SIX -->
-            <div class="text-center mt-6 rounded-2xl p-6 mx-16  grid grid-cols-2 grid-rows-1" style="background-color: rgb(229,230,133);">
+            <div class="text-center mt-6 rounded-2xl p-6 mx-6  grid grid-cols-2 grid-rows-1" style="background-color: rgb(229,230,133);">
                 <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
                 <div>
-                    <p class="text-left ml-6 text-4xl mt-12 font-bold">
+                    <p class="text-left ml-6 lg:text-4xl text-2xl mt-12 font-bold">
                         Arnav <br> Tibrewala
                        
                     </p> 
-                    <p class="text-left ml-6 text-4xl mt-12">COO</p>
+                    <p class="text-left ml-6 lg:text-4xl text-2xl mt-12">COO</p>
                 </div>
             </div>
         </div>
