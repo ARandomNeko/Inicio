@@ -72,7 +72,7 @@ h1 {
 }
 
 .rotated-text {
-	writing-mode: vertical-lr;
+	writing-mode: sideways-lr;
 	transform: rotate(180deg);
 }
 
