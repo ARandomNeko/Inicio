@@ -12,17 +12,17 @@
 
 
 
-<section class=" card py-6 px-12">
+<section class=" card  p-12">
     <!--About Us-->
-    <div class="flex content-center">
-        <div class=" basis-1/6 rotated-text  FF598F " style="font-family: pp_hattonbold;">
+    <div class="flex justify-start">
+        <div class="basis-1/6 rotated-text FF598F" style="font-family: pp_hattonbold;">
             <h1>
                 ABOUT US 
 
             </h1>
         </div>
     
-        <div class=" scale-text basis-3/4 text-black " style="font-family: Montserrat;"> 
+        <div class="basis-3/4 text-black " style="font-family: Montserrat;"> 
             <p >
                 World Peace Today is committed to spreading awareness on social issues and current events. Alongside our core mission, we recognize the pressing need to address world hunger and provide meals to underprivileged communities. To this end, we have intensified our focus on this critical area.
     
@@ -39,7 +39,7 @@
 
 </section>
 
-<section class=" card mt-20 py-6">
+<section class=" card mt-20 py-6 px-16">
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>
