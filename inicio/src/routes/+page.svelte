@@ -15,7 +15,7 @@
 <section class=" card py-6 px-12">
     <!--About Us-->
     <div class="flex content-center">
-        <div class=" basis-1/6 rotated-text  FF598F 2xl:text-9xl xl:text-8xl lg:text-7xl md:text-6xl text-4xl" style="font-family: pp_hattonbold;">
+        <div class=" basis-1/6 rotated-text  FF598F " style="font-family: pp_hattonbold;">
             <h1>
                 ABOUT US 
 
@@ -39,70 +39,64 @@
 
 </section>
 
-<section class=" card  2 mt-20 py-6">
+<section class=" card mt-20 py-6">
     <!--Meet the team-->
     <div class=""> 
-        <h1 class="text-center  "> MEET THE TEAM</h1>
-        <div class=" grid grid-cols-3 grid-rows-2 place-content-center">
+        <h1 class="text-center"> MEET THE TEAM</h1>
+        <div class=" grid grid-cols-3 grid-rows-2 ">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 ml-6" style="background-color: rgb(131,223,215);">
                 <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
-                <div class="-mb-12">
-                    <p class="text-left ml-6 mt-12 font-bold">
+                <p class="text-left ml-6 my-auto">
+                    <b>
                         Sahasra <br> Jaishetty
-                       
-                    </p> 
-                    <p class="text-left ml-6 mt-12 -translate-y-6">Co-Founder</p>
-                </div>
-
+                    </b>
+                   <br>Co-Founder
+                </p> 
             </div>
             <!-- TWO -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3" style="background-color: rgb(203,216,211);">
                 <img src="/assets/nishka.jpeg" class="cropped rounded-2xl">
-                <div class="-mb-12">
-                    <p class="text-left ml-6 mt-12 font-bold">
+                <p class="text-left ml-6 my-auto">
+                    <b>
                         Nishka <br> Gupta
-                       
-                    </p> 
-                    <p class="text-left ml-6 mt-12 -translate-y-6">Co-Founder</p>
-                </div>
+                    </b>
+                   <br>Co-Founder
+                </p> 
             </div>
             <!-- THREE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 mr-6" style="background-color: rgb(248,164,185);">
                 <img src="/assets/ritu.jpeg" class="cropped rounded-2xl">
-                <div class="-mb-12">
-                    <p class="text-left ml-6 mt-12 font-bold">
+                <p class="text-left ml-6 my-auto">
+                    <b>
                         Rituparan <br> Reddy
-                       
-                    </p> 
-                    <p class="text-left ml-6 mt-12 -translate-y-6">CTO</p>
-                </div>
+                    </b>
+                   <br>CTO
+                </p> 
             </div>
             <!-- FOUR -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 ml-6" style="background-color: rgb(250,191,169);">
                 <img src="/assets/rishika.jpeg" class="cropped rounded-2xl">
-                <div class="-mb-12">
-                    <p class="text-left ml-6 mt-12 font-bold">
+                <p class="text-left ml-6 my-auto">
+                    <b>
                         Rishika <br> Goteti
-                       
-                    </p> 
-                    <p class="text-left ml-6 mt-12 -translate-y-6">CMO</p>
-                </div>
+                    </b>
+                   <br>CMO
+                </p> 
             </div>
             <!-- FIVE blank -->
             <div >
            
             </div>
             <!-- SIX -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 mr-6" style="background-color: rgb(229,230,133);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 mx-3 mr-6 " style="background-color: rgb(229,230,133);">
                 <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
-                <div class="-mb-12">
-                    <p class="text-left ml-6 mt-12 font-bold">
-                        Arnav <br> Tibrewala
-                       
+                    <p class="text-left ml-6 my-auto">
+                        <b>
+                            Arnav <br> Tibrewala
+                        </b>
+                       <br>COO
                     </p> 
-                    <p class="text-left ml-6 mt-12 -translate-y-6">COO</p>
-                </div>
             </div>
         </div>
     </div>
