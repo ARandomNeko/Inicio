@@ -28,7 +28,7 @@
 		font-size: 2vw;
 	}
 }
-@media (min-width: 786px) {
+@media (min-width: 768px) {
 	.md\:rotated-text {
 		writing-mode: sideways-lr;
 		transform: rotate(0deg);
