@@ -41,7 +41,7 @@
 <section class=" card mt-20 py-6 md:px-16">
     <!--Meet the team-->
     <div class=""> 
-        <h1 class="text-center"> MEET THE TEAM</h1>
+        <h1 class="text-center"> MEET THE TEAM</h1>                         
         <div class=" md:grid grid-cols-3 grid-rows-2 px-10">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6" style="background-color: rgba(131,223,215,0.8);">
