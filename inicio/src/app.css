@@ -42,7 +42,7 @@
 	}
 }
 
-body {
+.bgimg {
 	background-image: url('/assets/wptwebsitebg1.jpeg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
