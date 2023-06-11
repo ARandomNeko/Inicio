@@ -92,3 +92,6 @@ p {
 }
 
 /* Scale the font size for larger screens */
+body {
+	background: rgba(255, 248, 231, 1);
+}
