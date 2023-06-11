@@ -1,4 +1,4 @@
-<section class="p-12 ">
+<section class=" md:p-12 p-6">
 <!-- landing page-->
 <section class="grid grid-cols-1  gap-4 place-items-center p-16 h80p">
     <div class=" sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
@@ -38,11 +38,11 @@
 
 </section>
 
-<section class=" card mt-20 py-6 md:px-16">
+<section class=" card mt-20 py-6 md:px-16 px-4">
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>                         
-        <div class=" md:grid grid-cols-3 grid-rows-2 px-10">
+        <div class=" md:grid grid-cols-3 grid-rows-2 md:px-10 px-6">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(131,223,215,0.8);">
                 <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
