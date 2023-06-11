@@ -38,7 +38,7 @@
 
 </section>
 
-<section class=" card mt-20 py-6 md:px-16 px-4">
+<section class=" card md:mt-20 py-6 md:px-16 px-4 mt:10">
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>                         
