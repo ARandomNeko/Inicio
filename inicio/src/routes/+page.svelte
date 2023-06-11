@@ -1,4 +1,4 @@
-<section class=" md:p-12 p-6">
+<section class=" md:p-12 p-6 bgimg">
 <!-- landing page-->
 <section class="grid grid-cols-1  gap-4 place-items-center p-16 h80p">
     <div class=" sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
