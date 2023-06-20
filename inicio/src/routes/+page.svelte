@@ -53,7 +53,7 @@
                 </p> 
             </div>
             <!-- TWO -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(229,230,133,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(203,216,211,0.8);">
                 <img src="/assets/nishka.jpeg" class="cropped rounded-2xl">
                 <p class="text-left ml-6 my-auto md:scale">
                     <b>
@@ -87,7 +87,7 @@
            
             </div>
             <!-- SIX -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:mr-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(203,216,211,0.8);">
+            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:mr-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(229,230,133,0.8);">
                 <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
                     <p class="text-left ml-6 my-auto md:scale">
                         <b>
