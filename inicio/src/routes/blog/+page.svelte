@@ -1,4 +1,4 @@
-<script>
-    /** @type {import('./$types').PageData} */
-    export let data;
-</script>
+<section style="background: rgb(250,235,215);" class="h-screen">
+    <h1 class="text-center"> Blog </h1> 
+    <p class="text-center"> insert blog placement text/description here </p>                     
+</section>
