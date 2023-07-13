@@ -3,10 +3,11 @@
     export let data;
   </script>
   
-  <article class="flex-col justify-content-center p-12">
+  <article class="flex-col justify-content-center p-12 dynamic-padding">
     
-    <p><b>{data.date}</p>
+    <p style="font-size: 2vw;"><b>{data.date}</p>
       <h1>{data.title }</h1>
-      <p>By: {data.author}</p>
-    <svelte:component this={data.content} />
+      <p style="font-size: 2vw;">By: {data.author}</p>
+      <br>
+    <svelte:component this={data.content}/>
   </article>

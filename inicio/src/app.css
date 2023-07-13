@@ -85,6 +85,13 @@ h1 {
 	width: auto;
 	height: auto;
 }
+.dynamic-padding {
+	padding-inline: 20%;
+}
+
+.blog-scale {
+	font-size: 30;
+}
 
 p {
 	font-family: Montserrat;
@@ -94,4 +101,8 @@ p {
 /* Scale the font size for larger screens */
 body {
 	background: rgba(255, 248, 231, 1);
+}
+h6 {
+	font-family: Montserrat;
+	font-size: 1.5vw;
 }
