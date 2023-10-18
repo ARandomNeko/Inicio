@@ -35,7 +35,6 @@
 @media (max-width: 768px) {
 	.md\:scale {
 		font-size: 3vw;
-		white-space: nowrap;
 	}
 	.md\:para-scale {
 		font-size: 2vw;
@@ -156,4 +155,7 @@ a {
 
 button {
 	margin: 2rem;
+}
+
+.text-scale {
 }

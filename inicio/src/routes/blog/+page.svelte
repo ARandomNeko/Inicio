@@ -10,7 +10,7 @@
                 <!-- ONE -->
                 <a href="/blog/1" class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(131,223,215,0.8);">
                     <img src="/assets/food-insec.png" class="cropped rounded-2xl">
-                    <p class="text-left ml-6 my-auto md:scale">
+                    <p class="text-left ml-6 my-auto md:scale whitespace-normal">
                         <b>
                             Food Insecurity The World's Hunger Problem
                         </b>
