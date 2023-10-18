@@ -1,17 +1,20 @@
-<section class=" md:p-12 p-6 bgimg">
+<section class=" md:px-12 p-6 bgimg md:-translate-y-28 -translate-y-24">
 <!-- landing page-->
-<section class="grid grid-cols-1  gap-4 place-items-center p-16 h80p">
+<section class="grid grid-cols-1  gap-4 place-items-center translate-y-28 px-16 h80p ">
     <div class=" sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
         <h1>
             WORLD PEACE TODAY
-        </h1>
+        </h1> 
+        <h2 class=" text-center mt-6">
+            Over 3000 People Fed
+        </h2>
     </div>
 </section>
 
 
 
 
-<section class=" card  p-12">
+<section class=" card  p-12 translate-y-28 mt-10">
     <!--About Us-->
     <div class="md:fleeeex justify-start">
         <div class="basis-1/6 md:rotated-text FF598F " style="font-family: pp_hattonbold;">
@@ -37,7 +40,7 @@
 
 </section>
 
-<section class=" card md:mt-20 py-6 md:px-16 px-4 mt-10">
+<section class=" card md:mt-20 py-6 md:px-16 px-4 mt-10 translate-y-28">
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>                         
