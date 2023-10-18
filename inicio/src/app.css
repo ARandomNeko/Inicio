@@ -34,7 +34,7 @@
 }
 @media (max-width: 768px) {
 	.md\:scale {
-		font-size: 3.2vw;
+		font-size: 3vw;
 		white-space: nowrap;
 	}
 	.md\:para-scale {

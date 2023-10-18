@@ -44,7 +44,7 @@
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>                         
-        <div class=" md:grid grid-cols-3 grid-rows-2 md:px-10 px-6">
+        <div class=" md:grid grid-cols-2 grid-rows-2 md:px-10 px-6">
             <!-- ONE -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(131,223,215,0.8);">
                 <img src="/assets/sahasra.jpeg" class="cropped rounded-2xl">
@@ -72,23 +72,10 @@
                     <b>
                         Rituparan <br> Reddy
                     </b>
-                   <br>CTO
+                   <br>Chief Technical<br> Officer
                 </p> 
             </div>
-            <!-- FOUR -->
-            <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:ml-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(250,191,169,0.8);">
-                <img src="/assets/rishika.jpeg" class="cropped rounded-2xl">
-                <p class="text-left ml-6 my-auto md:scale">
-                    <b>
-                        Rishika <br> Goteti
-                    </b>
-                   <br>CMO
-                </p> 
-            </div>
-            <!-- FIVE blank -->
-            <div >
-           
-            </div>
+
             <!-- SIX -->
             <div class="text-center mt-6 rounded-2xl p-6 grid grid-cols-2 sm:mx-3 -mx-3 md:mr-6 hover:scale-105 transition-all hover:shadow-xl" style="background-color: rgba(229,230,133,0.8);">
                 <img src="/assets/arnav.jpeg" class="cropped rounded-2xl">
@@ -96,14 +83,12 @@
                         <b>
                             Arnav <br> Tibrewala
                         </b>
-                       <br>COO
+                       <br>Chief Operations<br> Officer
                     </p> 
             </div>
         </div>
     </div>
 
 </section>
-<section class="my-40 ">
-    <br>
-</section>
+
 </section>
