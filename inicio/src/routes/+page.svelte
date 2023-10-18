@@ -1,6 +1,6 @@
-<section class=" md:px-12 p-6 bgimg md:-translate-y-28 -translate-y-24">
+<section class=" md:px-12 p-6 bgimg ">
 <!-- landing page-->
-<section class="grid grid-cols-1  gap-4 place-items-center translate-y-28 px-16 h80p ">
+<section class="grid grid-cols-1  gap-4 place-items-center  px-16 h80p ">
     <div class=" sm:whitespace-nowrap text-white" style="font-family: pp_hattonbold;">
         <h1>
             WORLD PEACE TODAY
@@ -14,7 +14,7 @@
 
 
 
-<section class=" card  p-12 translate-y-28 mt-10">
+<section class=" card  p-12  mt-10">
     <!--About Us-->
     <div class="md:fleeeex justify-start">
         <div class="basis-1/6 md:rotated-text FF598F " style="font-family: pp_hattonbold;">
@@ -40,7 +40,7 @@
 
 </section>
 
-<section class=" card md:mt-20 py-6 md:px-16 px-4 mt-10 translate-y-28">
+<section class=" card md:mt-20 py-6 md:px-16 px-4 mt-10 ">
     <!--Meet the team-->
     <div class=""> 
         <h1 class="text-center"> MEET THE TEAM</h1>                         
@@ -103,5 +103,7 @@
     </div>
 
 </section>
-
+<section class="my-40 ">
+    <br>
+</section>
 </section>

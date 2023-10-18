@@ -1,13 +1,21 @@
 <script>
     import "../app.css";
   </script>
- <header class="sticky rounded-2xl text-black place">
+ <header class=" bgimg">
 
-    <nav >
-        <ul class="">
-            <li style="display: inline"><a href="/">Home</a></li>
-            <li style="display: inline"><a href="/blog">Blog</a></li>
+  <nav class=" border-gray-200 px-4 lg:px-6  text-black  ">
+      <div class=" justify-between items-center flex w-auto order-1" >
+        <ul class="flex mt-4 font-medium lg:flex-row lg:space-x-8  m-auto">
+            
+            <li>
+                <a href="/" class="block  py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 ">Home</a>
+            </li>
+            <li>
+                <a href="blog" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-primary-700 lg:p-0 ">Blog</a>
+            </li>
+
         </ul>
+    </div>
     </nav>
 </header>
   
