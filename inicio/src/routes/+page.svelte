@@ -6,7 +6,7 @@
             WORLD PEACE TODAY
         </h1> 
         <h2 class=" text-center mt-6">
-            Over 3000 People Fed
+            Over 3500 People Fed
         </h2>
     </div>
 </section>
